@@ -1,0 +1,86 @@
+aid: duetto
+name: Duetto
+description: >-
+  Duetto is a San Francisco–headquartered hospitality technology company
+  providing a cloud-based Revenue and Profit Operating System (RP-OS) for
+  hotels, casinos, resorts, and independent properties. Duetto's platform
+  combines dynamic pricing, demand forecasting, group business optimization,
+  benchmarking, and reporting to help hospitality operators optimize room
+  rates, profitability, and total revenue performance. Core products include
+  GameChanger (real-time dynamic pricing engine), ScoreBoard (forecasting and
+  reporting dashboard), BlockBuster (group business optimization),
+  Advance (AI-powered demand forecasting), HotStats (profitability
+  benchmarking), and GameTime (select-service hotel revenue management).
+  Duetto serves over 7,500 properties in more than 100 countries, with
+  customers including Meliá, Sonesta, Virgin Hotels, and Sandman Hotel Group.
+  Duetto integrates with major property management systems (PMS), central
+  reservation systems (CRS), booking engines, and channel managers including
+  Cloudbeds, Oracle OPERA / OHIP, Mews, Sabre, Amadeus, SiteMinder, and Infor.
+  Duetto exposes an Open API for technical integration partners but does not
+  publish a public, self-serve developer portal or OpenAPI specification —
+  API access is partner-only and gated through a structured onboarding
+  process with a self-testing toolkit. Revenue is generated through SaaS
+  subscriptions to its revenue management products.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Hospitality
+  - Hotels
+  - Revenue Management
+  - Dynamic Pricing
+  - Demand Forecasting
+  - Group Business
+  - Benchmarking
+  - Reporting
+  - Casino Resorts
+  - SaaS
+  - Property Management Systems
+  - Channel Management
+  - Travel Technology
+url: https://raw.githubusercontent.com/api-evangelist/duetto/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.duettocloud.com
+  - type: Products
+    url: https://www.duettocloud.com/products
+  - type: GameChanger
+    url: https://www.duettocloud.com/products/gamechanger
+  - type: ScoreBoard
+    url: https://www.duettocloud.com/products/scoreboard
+  - type: BlockBuster
+    url: https://www.duettocloud.com/products/blockbuster
+  - type: Advance
+    url: https://www.duettocloud.com/products/advance
+  - type: HotStats
+    url: https://www.duettocloud.com/products/hotstats
+  - type: GameTime
+    url: https://www.duettocloud.com/products/gametime
+  - type: Integrations
+    url: https://www.duettocloud.com/integrations
+  - type: Customers
+    url: https://www.duettocloud.com/customers
+  - type: Library
+    url: https://www.duettocloud.com/library
+  - type: Company
+    url: https://www.duettocloud.com/company
+  - type: Careers
+    url: https://www.duettocloud.com/careers
+  - type: Contact
+    url: https://www.duettocloud.com/contact
+  - type: GitHub
+    url: https://github.com/duettoresearch
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/duettoresearch
+  - type: Twitter
+    url: https://twitter.com/duettoresearch
+  - type: YouTube
+    url: https://www.youtube.com/@duettoresearch
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
