@@ -45,6 +45,8 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/duetto-domain-security.yml
   - type: Website
     url: https://www.duettocloud.com
   - type: Products
@@ -81,6 +83,8 @@ common:
     url: https://twitter.com/duettoresearch
   - type: YouTube
     url: https://www.youtube.com/@duettoresearch
+  - url: https://www.duettocloud.com/en-us/library/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
