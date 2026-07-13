@@ -1,0 +1,14 @@
+{
+  "repo": "duetto",
+  "feeds": [
+    {
+      "source": "https://www.duettocloud.com/en-us/library/rss.xml",
+      "feed_url": "https://www.duettocloud.com/en-us/library/rss.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 15
+}
